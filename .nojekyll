@@ -1,0 +1,5 @@
+/*
+ * stanford-hackathon-media
+ * Hosted on GitHub Pages: https://zhang20090205-spec.github.io/stanford-hackathon-media/
+ * Static assets only (MP4 + one HTML player page). No build step, no dependencies.
+ */
